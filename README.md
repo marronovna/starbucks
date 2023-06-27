@@ -3,3 +3,4 @@
 # product-pages:   https://marronovna.github.io/choco_frappuchino_page/, https://marronovna.github.io/tea_frappuchino_page/ , https://marronovna.github.io/strawberry_frappuccino_page/  
 # shopping-bag:    https://marronovna.github.io/shopping_cart/
 # like-list:       https://marronovna.github.io/wish_list/
+# payment page     https://marronovna.github.io/starbucks_pay/
